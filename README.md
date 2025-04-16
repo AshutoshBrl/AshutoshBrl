@@ -13,12 +13,12 @@ I’m a **DevOps Engineer** from Kathmandu, Nepal, who’s all about making syst
 
 ## My Toolbox 🛠️
 - **Coding**: Python (my go-to), Golang (for the fancy stuff), Node.js, Bash  
-- **Cloud Vibes**: AWS (EC2, ECS, Lambda, Cloudwatch), Azure  
-- **Container Chaos**: Kubernetes, Docker, Helm, KubeBuilder  
-- **IaC Magic**: Terraform, CloudFormation  
-- **CI/CD Hustle**: GitHub Actions, Jenkins, Bitbucket CI  
-- **Keeping Watch**: Prometheus, Grafana, ELK Stack, Zabbix  
-- **Security Stuff**: Snyk (SAST), ZAP (DAST) ~ somewhat
+- **Cloud**: AWS (EC2, ECS, Lambda, Cloudwatch), Azure  
+- **Container orchestration**: Kubernetes, Docker, Helm, KubeBuilder  
+- **IaC**: Terraform, CloudFormation  
+- **CI/CD**: GitHub Actions, Jenkins, Bitbucket CI  
+- **Monitoring**: Prometheus, Grafana, ELK Stack, Zabbix  
+- **Security**: Snyk (SAST), ZAP (DAST) ~ somewhat
 - **Extras**: Git, Linux, GitOps, Bittensor
 
 ---
@@ -45,7 +45,6 @@ I’m a **DevOps Engineer** from Kathmandu, Nepal, who’s all about making syst
 ---
 
 ## Random Bits About Me ⚡
-- I’ve got a silver medal from the 9th National Games in Taekwondo—kicks are my thing!  
 - Catch me breaking ankles in sports or geeking out over robotics when I’m not coding.  
 
 “Let’s automate the boring stuff and build something awesome instead!”  
